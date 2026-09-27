@@ -1,7 +1,7 @@
 # Hi, I'm Yudai Sasaki 👋
 ### Product Data Scientist / Analyst | Edinburgh & Glasgow, UK
 
-Data Analyst at **Black Goblin Audio** (part-time) with a variety of working experience across EC, EdTech, and Deep AI tech startups. MSc in Data Science graduate from the University of Stirling.
+Data Analyst at **Black Goblin Audio** (part-time) with a variety of working experience across EC, EdTech, and Deep AI tech startups. MSc in Data Science Candidate from the University of Stirling.
 
 - 🔧 Currently working as a **Part-time Data Analyst** @ Black Goblin Audio
 - 🎓 MSc in Data Science from **University of Stirling** (Completed integrated Placement program)
