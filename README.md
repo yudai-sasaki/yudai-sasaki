@@ -13,11 +13,11 @@ Data Analyst at **Black Goblin Audio** (part-time) with a variety of working exp
 
 | Category | Technologies |
 | :--- | :--- |
-| **Product & App Analytics** | ![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=flat-square&logo=posthog&logoColor=white) ![Amplitude](https://img.shields.io/badge/Amplitude-2176FF?style=flat-square&logo=amplitude&logoColor=white) |
+| **Product & App Analytics** | ![PostHog](https://img.shields.io/badge/PostHog-1D4ED8?style=flat-square&logo=posthog&logoColor=white)　|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
 | **Data Warehousing & DB** | ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlecloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
 | **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=flat-square) |
-| **BI & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) |
+| **BI & Visualization** | ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white) |
 | **Methodologies** | `Funnel & Cohort Analysis` `TTV Optimization` `User Retention` `GDPR Privacy Constraints` |
 
 ---
